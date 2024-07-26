@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, bem-vindo ao meu perfil 👋
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https_gustas/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ASgustas)
 
-<!--
-**ASGust/ASGust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![ASGust GitHub stats](https://github-readme-stats.vercel.app/api?username=ASGust&show_icons=true&theme=onedark)
 
-Here are some ideas to get you started:
+## Tecnologias que eu uso no meu dia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br/>
+  <img align="center" alt="html5" src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white /> 
+  <img align="center" alt="html5" src=	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white/> 
+  <img align="center" alt="html5" src=	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white))/> 
+  <img align="center" alt="html5" src=	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)/>
+</div><br/>
+
+Apaixonado por tecnologia, bacharelando engenharia de computação.
