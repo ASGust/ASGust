@@ -10,7 +10,7 @@
 ### 🤝🏻 Connect with Me
 &nbsp; &nbsp; &nbsp;
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/https_gustas/)
-[![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/gustavo-alves-silva-7a4b58260)
+[![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-alves-silva-7a4b58260)
 
 <div>
   <a href="https://github.com/ASGust">
